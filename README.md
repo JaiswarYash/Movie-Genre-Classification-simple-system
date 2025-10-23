@@ -196,13 +196,13 @@ The project generates:
 
 ### 1. Single Prediction Page UI
 
-[!application UI](figures/userinterface&PredictionpageUI.png)
+![application UI](figures/userinterface&PredictionpageUI.png)
 
 ### 2. Model Information
-[!Model information UI](figures/modelinfo.png)
+![Model information UI](figures/modelinfo.png)
 
 ### 3. Data Analysis
-[!data Analysis UI](figures/DataExploration.png)
+![data Analysis UI](figures/DataExploration.png)
 
 ---
 ## Contributing
